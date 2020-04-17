@@ -1,126 +1,130 @@
 [
   {
-    "855": 354,
-    "Ciudad de México": "México"
+    "estado": "Ciudad de México",
+    "positivos": 855
   },
   {
-    "855": 225,
-    "Ciudad de México": "Baja California"
+    "estado": "México",
+    "positivos": 354
   },
   {
-    "855": 183,
-    "Ciudad de México": "Puebla"
+    "estado": "Baja California",
+    "positivos": 225
   },
   {
-    "855": 143,
-    "Ciudad de México": "Quintana Roo"
+    "estado": "Puebla",
+    "positivos": 183
   },
   {
-    "855": 139,
-    "Ciudad de México": "Jalisco"
+    "estado": "Quintana Roo",
+    "positivos": 143
   },
   {
-    "855": 125,
-    "Ciudad de México": "Sinaloa"
+    "estado": "Jalisco",
+    "positivos": 139
   },
   {
-    "855": 122,
-    "Ciudad de México": "Coahuila"
+    "estado": "Sinaloa",
+    "positivos": 125
   },
   {
-    "855": 112,
-    "Ciudad de México": "Tabasco"
+    "estado": "Coahuila",
+    "positivos": 122
   },
   {
-    "855": 98,
-    "Ciudad de México": "Nuevo León"
+    "estado": "Tabasco",
+    "positivos": 112
   },
   {
-    "855": 74,
-    "Ciudad de México": "Yucatán"
+    "estado": "Nuevo León",
+    "positivos": 98
   },
   {
-    "855": 68,
-    "Ciudad de México": "Baja California Sur"
+    "estado": "Yucatán",
+    "positivos": 74
   },
   {
-    "855": 67,
-    "Ciudad de México": "Guanajuato"
+    "estado": "Baja California Sur",
+    "positivos": 68
   },
   {
-    "855": 53,
-    "Ciudad de México": "Aguascalientes"
+    "estado": "Guanajuato",
+    "positivos": 67
   },
   {
-    "855": 49,
-    "Ciudad de México": "Veracruz"
+    "estado": "Aguascalientes",
+    "positivos": 53
   },
   {
-    "855": 47,
-    "Ciudad de México": "Guerrero"
+    "estado": "Veracruz",
+    "positivos": 49
   },
   {
-    "855": 47,
-    "Ciudad de México": "Querétaro"
+    "estado": "Guerrero",
+    "positivos": 47
   },
   {
-    "855": 46,
-    "Ciudad de México": "Hidalgo"
+    "estado": "Querétaro",
+    "positivos": 47
   },
   {
-    "855": 46,
-    "Ciudad de México": "Sonora"
+    "estado": "Hidalgo",
+    "positivos": 46
   },
   {
-    "855": 43,
-    "Ciudad de México": "San Luis Potosí"
+    "estado": "Sonora",
+    "positivos": 46
   },
   {
-    "855": 43,
-    "Ciudad de México": "Tamaulipas"
+    "estado": "San Luis Potosí",
+    "positivos": 43
   },
   {
-    "855": 37,
-    "Ciudad de México": "Oaxaca"
+    "estado": "Tamaulipas",
+    "positivos": 43
   },
   {
-    "855": 36,
-    "Ciudad de México": "Michoacán"
+    "estado": "Oaxaca",
+    "positivos": 37
   },
   {
-    "855": 32,
-    "Ciudad de México": "Chiapas"
+    "estado": "Michoacán",
+    "positivos": 36
   },
   {
-    "855": 29,
-    "Ciudad de México": "Chihuahua"
+    "estado": "Chiapas",
+    "positivos": 32
   },
   {
-    "855": 26,
-    "Ciudad de México": "Morelos"
+    "estado": "Chihuahua",
+    "positivos": 29
   },
   {
-    "855": 23,
-    "Ciudad de México": "Tlaxcala"
+    "estado": "Morelos",
+    "positivos": 26
   },
   {
-    "855": 15,
-    "Ciudad de México": "Durango"
+    "estado": "Tlaxcala",
+    "positivos": 23
   },
   {
-    "855": 14,
-    "Ciudad de México": "Campeche"
+    "estado": "Durango",
+    "positivos": 15
   },
   {
-    "855": 12,
-    "Ciudad de México": "Nayarit"
+    "estado": "Campeche",
+    "positivos": 14
   },
   {
-    "855": 11,
-    "Ciudad de México": "Zacatecas"
+    "estado": "Nayarit",
+    "positivos": 12
   },
   {
-    "855": 7,
-    "Ciudad de México": "Colima"
+    "estado": "Zacatecas",
+    "positivos": 11
+  },
+  {
+    "estado": "Colima",
+    "positivos": 7
   }
 ]
